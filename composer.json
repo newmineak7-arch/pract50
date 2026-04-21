@@ -1,0 +1,15 @@
+{
+    "name": "duulk/pract",
+    "authors": [
+        {
+            "name": "Test",
+            "email": "test@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Photos\\": ""
+        }
+    }
+}
